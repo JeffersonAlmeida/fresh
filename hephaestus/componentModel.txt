@@ -1,0 +1,17 @@
+bookDomain => grails-app/domain/org/example/Book.groovy;
+bookController => grails-app/controllers/org/example/BookController.groovy;
+error => grails-app/views/error.gsp;
+index => grails-app/views/index.gsp;
+layout => grails-app/views/layouts/main.gsp;
+bookForm => grails-app/views/book/form.gsp;
+bookCreate => grails-app/views/book/create.gsp;
+bookEdit => grails-app/views/book/edit.gsp;
+bookList => grails-app/views/book/list.gsp;
+bookShow => grails-app/views/book/show.gsp;
+applicationResources => grails-app/conf/ApplicationResources.groovy;
+bootStrap => grails-app/conf/BootStrap.groovy;
+buildConfig => grails-app/conf/BuildConfig.groovy;
+config => grails-app/conf/Config.groovy;
+dataSources => grails-app/conf/DataSource.groovy;
+urlMapping => grails-app/conf/UrlMapping.groovy;
+resources => grails-app/conf/spring/resources.groovy;

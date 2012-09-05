@@ -1,0 +1,4 @@
+<feature min="1" max="1" name="test" type="NONE" id="test">
+  <feature min="0" max="1" name="optional" type="NONE" id="optional">
+  </feature>
+</feature>
