@@ -1,1 +1,1 @@
-bookDomain => domain/org/example/Book.groovy
+bookDomain => grailsapp/domain/org/example/Book.groovy
